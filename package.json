@@ -1,0 +1,27 @@
+{
+  "name": "koa-angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanoschrs/koa-angular.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanoschrs/koa-angular/issues"
+  },
+  "homepage": "https://github.com/stefanoschrs/koa-angular#readme",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-send": "^4.1.3"
+  },
+  "devDependencies": {
+    "standard": "^11.0.0"
+  }
+}
